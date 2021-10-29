@@ -1,1 +1,33 @@
-/* Write your CSS here! */
+body {
+    background-color:ghostwhite;
+}
+
+.header {
+    font-size: 60px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: firebrick;
+    background-color:peachpuff;
+    text-shadow: 2px 2px 0px black;
+
+}
+
+.subHeader {
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: firebrick;
+    text-shadow: 2px 2px 0px black;
+}
+
+p {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+
+a {
+    color: blue;
+}
+
+footer {
+    text-align: center;
+    font-family: "Comic sans MS";
+}
