@@ -2,10 +2,10 @@ body {
     background-color:ghostwhite;
 }
 
-.header {
+h1 {
     font-size: 60px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color: firebrick;
+    color: red;
     background-color:peachpuff;
     text-shadow: 2px 2px 0px black;
 
