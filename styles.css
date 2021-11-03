@@ -14,7 +14,7 @@ body {
 .subHeader {
     font-size: 30px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color: firebrick;
+    color: red;
     text-shadow: 2px 2px 0px black;
 }
 
