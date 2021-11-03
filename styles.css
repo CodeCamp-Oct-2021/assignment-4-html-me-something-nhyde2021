@@ -1,8 +1,10 @@
 body {
     background-color:ghostwhite;
+    margin: 8px;
+    display: block;
 }
 
-header {
+#mainHeading {
     font-size: 60px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     color: red;
@@ -23,7 +25,7 @@ p {
     font-size: larger;
 }
 
-#greenParagraph {
+.funParagraph {
     color: green;
 }
 
